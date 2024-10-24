@@ -1,3 +1,5 @@
+// VERA MOLNÁR - Interstices horizontales, 1989 Dessin ordinateur - Oeuvre unique
+
 let gridSize = 18;  // distanza di base tra i quadrati
 let squareSize = 15;  // forma quadrati
 let offset = 3;     // variazione di posizione dei quadrati
